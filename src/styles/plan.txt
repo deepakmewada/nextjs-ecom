@@ -1,0 +1,21 @@
+---------------- Sprint 1 => Start Date => 17-04-2021 --> HTML of All Pages ----------------
+
+Home - Done
+Product Details - 18/04
+Cart - 18/04
+Checkout-User Address - 18/04
+Checkout-User Payment - 24/04
+Checkout-Transaction Successfull - 24/04
+Shop - 24/04
+User Account - 25/04
+User Orders - 25/04
+Wishlist - 25/04
+Change Password - 
+Login - 01/05
+Signup - 01/05
+
+---------------- Sprint 1 End Date => 09-05-2021 ----------------
+
+---------------- Sprint 2 => Start Date => 15-05-2021 --> Backend ----------------
+
+Yet to be decided.

@@ -1,0 +1,8 @@
+ECommerce Site
+
+MVP
+product list
+product details
+add cart
+checkout
+order history
