@@ -16,7 +16,7 @@ const Header = () => {
     const router = useRouter()
     const context = useContext(GlobalContext);
     const cartCountVal = useRecoilValue(cartCount)
-    const [isVisible, setIsVisible] = useRecoilValue(isDrawerVisible)
+    const [isVisible, setIsVisible] = useRecoilState(isDrawerVisible)
     const { userContext, cart } = context;
     const { isLoggedIn, user, } =  userContext.userState
     const [isLoginOpen, setIsLoginOpen] = useState(false)
